@@ -3,7 +3,7 @@ A very basic Web Api example, using ASP.NET Core the Node.js style
 
 This is a tiny example of an ASP.NET Core Web Api, not using JSON ModelBinding or strongly typed DTO models.
 
-##Background:
+## Background:
 
 I worked a lot with ASP.NET Core, before i stepped deeper into the JS/TS Node.js/Deno world. In a strongly typed environment like C#/.NET, paired with a rather strong opinionated framework like ASP.NET Core, things act very different.
 
@@ -15,11 +15,11 @@ But sometimes you just wanna get some request, handle it and produce a response.
 
 Also C# is a strongly typed language. In contrast to JS. This means: In the ASP.NET Core world, you often use strongly typed DTO objects and model binding. Whereas in the JS world, you just open up some { } brackets and define a response. This means, in ASP.NET Core you have a lot of DTO classes and declared types. Which makes data transfers, conversions etc. rather statically and a bit tough as chewing gum.
 
-##That said:
+## That said:
 
 This example was just a small test, in which way we can create a REST API in ASP.NET Core a bit more flexible. A bit more like in the Node.js or Deno world.
 
-##Final words:
+## Final words:
 
 Most interessting stuff happens in "MainController.cs" file. The example is rather small and clumsy, to keep things simple and obvious. There are a few comments in MainController, that follow what i said above. Also there is a comment, showing how to quickly test the API with some simple cURL call.
 
