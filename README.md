@@ -3,7 +3,7 @@ A very basic Web API example, using ASP.NET Core the Node.js way
 
 #### What it is:
 
-This is a very tiny example of an ASP.NET Core Web API project, not using JSON ModelBinding or strongly typed DTO models.
+This is a very tiny example of an ASP.NET Core Web API project, not using JSON ModelBinding or strongly typed DTO models. Instead manual JSON-evaluation and Anonymous Types are used.
 
 #### Background:
 
