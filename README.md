@@ -19,7 +19,7 @@ Also C# is a strongly typed language. In contrast to JS. This means: In the ASP.
 
 #### That said:
 
-This example was just a small test, in which way we can create a REST API in ASP.NET Core a bit more flexible. A bit more like in the Node.js or Deno world.
+This example was just a small test, in which way we can create a REST API in ASP.NET Core a bit more flexible. A bit more like in the Node.js or Deno world. Even when handling with a strong opinionated framework in a type-safe environment.
 
 #### Final words:
 
