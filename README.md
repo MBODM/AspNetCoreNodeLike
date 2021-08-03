@@ -28,6 +28,6 @@ This example was just a small test, in which way we can create a REST API in ASP
 
 Most interessting stuff happens in "*MainController.cs*" file. The example is really small and rather clumsy, to keep things simple and obvious. There are a few comments in *MainController*, following what i said above. Also there is a comment, showing how to quickly test the API with some simple cURL call.
 
-Don't expect much here. It was just some tiny test for myself. :)
+Don't expect much here. It was just some tiny test for myself (about "if" and "how"). :)
 
 #### Have fun
