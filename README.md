@@ -1,5 +1,5 @@
 # AspNetCoreNodeLike
-A very basic Web Api example, using ASP.NET Core the Node.js style
+A very basic Web Api example, using ASP.NET Core the Node.js way
 
 #### What it is:
 
