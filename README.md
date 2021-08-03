@@ -1,9 +1,9 @@
 # AspNetCoreNodeLike
-A very basic Web Api example, using ASP.NET Core the Node.js way
+A very basic Web API example, using ASP.NET Core the Node.js way
 
 #### What it is:
 
-This is a tiny example of an ASP.NET Core Web Api, not using JSON ModelBinding or strongly typed DTO models.
+This is a tiny example of an ASP.NET Core Web API, not using JSON ModelBinding or strongly typed DTO models.
 
 #### Background:
 
